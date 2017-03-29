@@ -1,8 +1,6 @@
 <!-- main stylesheet 4 site -->
 .full {
     background: url('https://static.pexels.com/photos/1380/black-and-white-city-skyline-buildings.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    ;
 }
