@@ -1,9 +1,16 @@
 <!-- main stylesheet 4 site -->
 
-.full {
+.fuck{
     background: url('http://www.intrawallpaper.com/static/images/hd-landscape-wallpaper-1920x1080-1008115.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.test{
+    border: 3px solid gray;
+    background:url('http://www.intrawallpaper.com/static/images/hd-landscape-wallpaper-1920x1080-1008115.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
